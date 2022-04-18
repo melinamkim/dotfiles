@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = melinamkim@gmail.com
+	name = Melina Kim
